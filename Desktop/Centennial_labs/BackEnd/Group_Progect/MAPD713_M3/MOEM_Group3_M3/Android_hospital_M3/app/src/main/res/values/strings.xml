@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Volley</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="province">Province</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="doctor">Doctor</string>
+    <string name="id">_id</string>
+    <string name="hospital_patients">Hospital Patients</string>
+</resources>
