@@ -1,6 +1,8 @@
 {
   "name": "myIonic_a1",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "ce8761e4"
 }
