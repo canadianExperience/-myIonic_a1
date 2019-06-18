@@ -1,0 +1,21 @@
+<resources>
+<string name="app_name">ThreeButtonsIntent</string>
+<string name="text_one">Text One</string>
+<string name="text_two">Text Two</string>
+<string name="text_three">Text Three</string>
+<string name="article_one">
+        MONTREAL — The Quebec government passed a bill late Sunday barring schoolteachers, police officers, judges and other public employees from wearing religious symbols in the workplace, prompting an outcry that civil liberties in the province were under attack.\n
+\n
+François Legault, the right-leaning Quebec premier, had called the bill a necessary measure to ensure the separation between religion and state in an abidingly secular province. It applies to Muslim head scarves, Jewish skullcaps, Sikh turbans and Catholic crosses, among other symbols.\n
+\n
+Mr. Legault had also argued that the bill, which passed 73 to 35, was supported by a majority of Quebecers.\n
+\n
+Members of the opposition called Sunday a dark day for the province. Critics say that the legislation will effectively exclude religious Muslims, Sikhs and Jews from positions of authority in education and law enforcement, and that it runs roughshod over the freedom of religion and expression at the heart of Canada’s model of multiculturalism.\n
+    </string>
+<string name="article_two">
+        2222
+    </string>
+<string name="article_three">
+    3333
+    </string>
+</resources>
